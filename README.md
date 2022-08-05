@@ -1,6 +1,6 @@
 
 
-<a href="https://app.daily.dev/JavanXU"><img src="https://api.daily.dev/devcards/e45a150971844cd6959a94bb94e861ea.png?r=7up" width="400" alt="Javan Xu's Dev Card"/></a>
+<a href="https://app.daily.dev/JavanXU"><img src="https://api.daily.dev/devcards/e45a150971844cd6959a94bb94e861ea.png?r=quw" width="400" alt="Javan Xu's Dev Card"/></a>
 
 My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
