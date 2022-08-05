@@ -3,7 +3,7 @@
   <a href="https://app.daily.dev/JavanXU"><img src="https://api.daily.dev/devcards/e45a150971844cd6959a94bb94e861ea.png?r=quw" width="400" alt="Javan Xu's Dev Card"/></a>
 </div>
 
-# My daily.dev bookmarks
+My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
 - [React code conventions and best practices](https://app.daily.dev/posts/WXYDTikzS?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [A few must-learn JavaScript hacks](https://app.daily.dev/posts/JsEOwFmVG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
