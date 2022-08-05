@@ -2,7 +2,7 @@
 
 
 
-Javan's daily.dev bookmarks
+My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
 - [React code conventions and best practices](https://app.daily.dev/posts/WXYDTikzS?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [A few must-learn JavaScript hacks](https://app.daily.dev/posts/JsEOwFmVG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
