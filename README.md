@@ -1,7 +1,5 @@
 
-<div align="right">
-  <a href="https://app.daily.dev/JavanXU"><img src="https://api.daily.dev/devcards/e45a150971844cd6959a94bb94e861ea.png?r=quw" width="400" alt="Javan Xu's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/JavanXU"><img align="right" src="https://api.daily.dev/devcards/e45a150971844cd6959a94bb94e861ea.png?r=quw" width="400" alt="Javan Xu's Dev Card"/>
 
 My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
