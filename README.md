@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Fzf: A tool that will transform your CLI life](https://app.daily.dev/posts/rS9wfcIli?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Python in Visual Studio Code – August 2022 Release](https://app.daily.dev/posts/vc7QkU3c_?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [TypeScript - The Best Way to Use It with React](https://app.daily.dev/posts/RGTj-TLRP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [React code conventions and best practices](https://app.daily.dev/posts/WXYDTikzS?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [A few must-learn JavaScript hacks](https://app.daily.dev/posts/JsEOwFmVG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Blog - Layouts RFC](https://app.daily.dev/posts/2CSx5xoJh?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Mastering React’s Stable Values](https://app.daily.dev/posts/KO9__mOyl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
