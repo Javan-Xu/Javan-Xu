@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How to build a real-time Auction System with Socket.io and React.js 🤯](https://app.daily.dev/posts/1UFRBLP_q?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Reading Source Code: React](https://app.daily.dev/posts/a26g82QSn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Delete unused node_modules in a second and enjoy some free space!](https://app.daily.dev/posts/nVLCwoVKm?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [11 Authentication Mistakes and how to fix them](https://app.daily.dev/posts/KiL1C-Fx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Fzf: A tool that will transform your CLI life](https://app.daily.dev/posts/rS9wfcIli?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Python in Visual Studio Code – August 2022 Release](https://app.daily.dev/posts/vc7QkU3c_?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [TypeScript - The Best Way to Use It with React](https://app.daily.dev/posts/RGTj-TLRP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [React code conventions and best practices](https://app.daily.dev/posts/WXYDTikzS?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [A few must-learn JavaScript hacks](https://app.daily.dev/posts/JsEOwFmVG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
