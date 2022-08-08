@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [What is Google JAX? Everything You Need to Know](https://app.daily.dev/posts/UrH8wLq-y?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Trends in AI — August 2022. 3% of Google’s new code is written by a…](https://app.daily.dev/posts/3x42F8Ql-?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [The Ultimate Clean Architecture Template for TypeScript Projects](https://app.daily.dev/posts/Uu5ByaOTA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [How to build a real-time Auction System with Socket.io and React.js 🤯](https://app.daily.dev/posts/1UFRBLP_q?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Reading Source Code: React](https://app.daily.dev/posts/a26g82QSn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Delete unused node_modules in a second and enjoy some free space!](https://app.daily.dev/posts/nVLCwoVKm?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [11 Authentication Mistakes and how to fix them](https://app.daily.dev/posts/KiL1C-Fx5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
