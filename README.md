@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [9 Bad React Habits to Kick From Your Life](https://app.daily.dev/posts/mnbdSRbXQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [🚀⚙️ JavaScript Visualized: the JavaScript Engine](https://app.daily.dev/posts/fEv6JY-EO?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [5 Good practices to scale your React projects easily](https://app.daily.dev/posts/azRUPITVs?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [What is Google JAX? Everything You Need to Know](https://app.daily.dev/posts/UrH8wLq-y?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Trends in AI — August 2022. 3% of Google’s new code is written by a…](https://app.daily.dev/posts/3x42F8Ql-?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [The Ultimate Clean Architecture Template for TypeScript Projects](https://app.daily.dev/posts/Uu5ByaOTA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to build a real-time Auction System with Socket.io and React.js 🤯](https://app.daily.dev/posts/1UFRBLP_q?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Reading Source Code: React](https://app.daily.dev/posts/a26g82QSn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
