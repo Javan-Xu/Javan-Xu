@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Build + test + send emails with React](https://app.daily.dev/posts/IsLPA-K8c?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Javascript to know for Reactjs](https://app.daily.dev/posts/_NLgqLDbo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How we made the Vercel dashboard 3x faster – Vercel](https://app.daily.dev/posts/OD7e1NvNy?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Focus at Work • Relax at Home • Sleep at Night](https://app.daily.dev/posts/F42Jv7Vk8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Software Engineer Interview: The Interview Study Guide For Software Engineers](https://app.daily.dev/posts/DlMEakbpn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [5 Data Models for IoT](https://app.daily.dev/posts/vADZ4eiMt?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Why Developers Need a Management Plane](https://app.daily.dev/posts/o9QsyXLSN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to Build a Redux-Powered React App](https://app.daily.dev/posts/RcG1tuFlD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [TypeScript: React useState Hook](https://app.daily.dev/posts/s5md-Id8X?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JavaScript Callbacks Explained in 5 Minutes](https://app.daily.dev/posts/xDQnh3Kmi?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
