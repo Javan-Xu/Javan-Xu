@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [React re-renders guide: everything, all at once](https://app.daily.dev/posts/UJM34LmDU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to Perform Motion Detection Using Python](https://app.daily.dev/posts/SCCsvLmSI?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [BIM and Artificial Intelligence combined. Use case.](https://app.daily.dev/posts/T7poIgn_a?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JWT Common Attacks](https://app.daily.dev/posts/u-FATUzQZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [5 Data Models for IoT](https://app.daily.dev/posts/vADZ4eiMt?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Making Your Code Look Pretty](https://app.daily.dev/posts/NsqnasgdR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to Debug Better with Chrome](https://app.daily.dev/posts/gBykXRsyY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Code Refactoring in JavaScript](https://app.daily.dev/posts/JFg0eE3VK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The 2022 Python Programmer RoadMap](https://app.daily.dev/posts/TYyCH9lwK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Regex Cheat Sheet](https://app.daily.dev/posts/Y3o9N5laz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
