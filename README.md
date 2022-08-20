@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [NoSQL Data Modeling](https://app.daily.dev/posts/W1Yj8tFRe?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Why You Should Choose NestJS as Your Backend Framework](https://app.daily.dev/posts/WmlrcmzKj?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Webhooks.fyi](https://app.daily.dev/posts/FQ5lbl0EU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Building a chat app with Socket.io and React 🚀](https://app.daily.dev/posts/Zpd_2zyts?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Best Github Repos for Developers to bookmark right now](https://app.daily.dev/posts/-1OXyPymt?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [pacocoursey/cmdk: Fast, unstyled command menu React component.](https://app.daily.dev/posts/y23VdOERB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to Automate Your Linux Desktop](https://app.daily.dev/posts/BFJJvxZVC?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Making Your Code Look Pretty](https://app.daily.dev/posts/NsqnasgdR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
