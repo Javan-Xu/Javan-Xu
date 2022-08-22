@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The Lessons I Learned From A Failed Interview...](https://app.daily.dev/posts/J4IsJ1tJt?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [React TS: Don&#39;t repeat the type when you pass functions as props, use their types.](https://app.daily.dev/posts/1jOMeTWHd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Top 10 Microservices Design Patterns and Principles](https://app.daily.dev/posts/ck2oVfRM2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Git Concepts I Wish I Knew Years Ago](https://app.daily.dev/posts/Ax4qYMjhd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [NoSQL Data Modeling](https://app.daily.dev/posts/W1Yj8tFRe?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Why You Should Choose NestJS as Your Backend Framework](https://app.daily.dev/posts/WmlrcmzKj?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Webhooks.fyi](https://app.daily.dev/posts/FQ5lbl0EU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Building a chat app with Socket.io and React 🚀](https://app.daily.dev/posts/Zpd_2zyts?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Best Github Repos for Developers to bookmark right now](https://app.daily.dev/posts/-1OXyPymt?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
