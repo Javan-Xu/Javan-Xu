@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No More Confusion About TypeScript’s Type and Interface](https://app.daily.dev/posts/LhK-LHy13?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Send Real-Time Notifications with Socket.io and Node.js](https://app.daily.dev/posts/Ute0-3snp?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Algorithms in JavaScript with visual examples.](https://app.daily.dev/posts/POzvzDpro?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Cloud Computing Service Models](https://app.daily.dev/posts/XOo8ZixnK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [The Lessons I Learned From A Failed Interview...](https://app.daily.dev/posts/J4IsJ1tJt?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [React TS: Don&#39;t repeat the type when you pass functions as props, use their types.](https://app.daily.dev/posts/1jOMeTWHd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Top 10 Microservices Design Patterns and Principles](https://app.daily.dev/posts/ck2oVfRM2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Git Concepts I Wish I Knew Years Ago](https://app.daily.dev/posts/Ax4qYMjhd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
