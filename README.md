@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [No More Confusion About TypeScript’s Type and Interface](https://app.daily.dev/posts/LhK-LHy13?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Send Real-Time Notifications with Socket.io and Node.js](https://app.daily.dev/posts/Ute0-3snp?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Git: Cheat Sheet &lpar;advanced&rpar;](https://app.daily.dev/posts/7fk0tsor5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Algorithms in JavaScript with visual examples.](https://app.daily.dev/posts/POzvzDpro?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Cloud Computing Service Models](https://app.daily.dev/posts/XOo8ZixnK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to implement Lazy Loading in REACT | code splitting](https://app.daily.dev/posts/d3SKiKFkq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JavaScript Visualized: Generators and Iterators](https://app.daily.dev/posts/q3LygDnhu?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JWT &lpar;JSON Web Token&rpar;](https://app.daily.dev/posts/SZcRuqp7p?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to Use JavaScript to Automate SEO &lpar;With Scripts&rpar;](https://app.daily.dev/posts/f8A1wx2TL?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Unit testing with Jest, React, and TypeScript](https://app.daily.dev/posts/oU7u32P0P?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
