@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [30+ Popular VS Code Shortcuts for Web Developers](https://app.daily.dev/posts/KlAD5VXra?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [fRPC: A Faster, More Flexible RPC Framework](https://app.daily.dev/posts/-VYZ41LOJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Lodash is dead. Long live Radash.](https://app.daily.dev/posts/3qy5nB-hz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Easy Steps to Optimize your LinkedIn Profile for Jobs and Clients](https://app.daily.dev/posts/siJUsMA6G?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Using Docker as a package manager](https://app.daily.dev/posts/QaGvd5tBF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [GraphQL API design](https://app.daily.dev/posts/M05iZabFr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to implement Lazy Loading in REACT | code splitting](https://app.daily.dev/posts/d3SKiKFkq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JavaScript Visualized: Generators and Iterators](https://app.daily.dev/posts/q3LygDnhu?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
