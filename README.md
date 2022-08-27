@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Learn how to build a microservice using Node.js and RabbitMQ.](https://app.daily.dev/posts/fjc4TXIwY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [5 Must Know JavaScript DOM Methods 🔀](https://app.daily.dev/posts/pG2j5Dw9r?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [30+ Popular VS Code Shortcuts for Web Developers](https://app.daily.dev/posts/KlAD5VXra?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [fRPC: A Faster, More Flexible RPC Framework](https://app.daily.dev/posts/-VYZ41LOJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Lodash is dead. Long live Radash.](https://app.daily.dev/posts/3qy5nB-hz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Easy Steps to Optimize your LinkedIn Profile for Jobs and Clients](https://app.daily.dev/posts/siJUsMA6G?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Using Docker as a package manager](https://app.daily.dev/posts/QaGvd5tBF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
