@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [EP22: Latency numbers you should know. Also...](https://app.daily.dev/posts/Q4hQTX_M1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Detect When Users Switch Tabs using JavaScript](https://app.daily.dev/posts/Hvz_LgFId?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [VSCheatsheet - Shortcuts in the shortest time possible](https://app.daily.dev/posts/L124jUxY3?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [7 Best Ways Chatbots Can Help You Generate a Better User Experience](https://app.daily.dev/posts/1-2pwuITu?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Notesnook is now open source!](https://app.daily.dev/posts/UBAJSk_lu?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Micro Frontends](https://app.daily.dev/posts/aoaRbSSAj?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Understanding useMemo and useCallback](https://app.daily.dev/posts/PTQrzzJ8g?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Everyone can decode JWT to see plain text claims — Is it safe?](https://app.daily.dev/posts/NjlzUQ5s0?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to Implement Redis as Cache in Node.js](https://app.daily.dev/posts/PA0JyBU0j?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
