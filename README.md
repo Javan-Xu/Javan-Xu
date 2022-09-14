@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 30 System Design Interview Questions and Problems for Programmers and Software Engineers](https://app.daily.dev/posts/Icp3V7z0P?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Software Architecture Handbook](https://app.daily.dev/posts/4deq4JDyD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [How to dynamically assign properties to an object in TypeScript](https://app.daily.dev/posts/jHXTX-leT?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Modern Web App Design Patterns](https://app.daily.dev/posts/rq_GJL21w?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Fantastic CSS border animation](https://app.daily.dev/posts/SqThqwKmJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [EP22: Latency numbers you should know. Also...](https://app.daily.dev/posts/Q4hQTX_M1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Detect When Users Switch Tabs using JavaScript](https://app.daily.dev/posts/Hvz_LgFId?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
