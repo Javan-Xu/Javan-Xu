@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Four top Front End Monitoring Tools for your Website](https://app.daily.dev/posts/Qc5Lip90x?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [165+ JavaScript terms you need to know](https://app.daily.dev/posts/n4Osvhj45?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Appwrite - 100% open source alternative for Firebase](https://app.daily.dev/posts/umop06zvi?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [CodeSpeedy - Simple tool to manage your VS Code code snippet](https://app.daily.dev/posts/WxQfSMdpd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [My favorite open source alternatives to Notion](https://app.daily.dev/posts/V8H3RwPqM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to Animate Your React Apps with 1 Line of Code](https://app.daily.dev/posts/lssw_tv0H?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Theatre.js - Animation and 3D editor for JavaScript](https://app.daily.dev/posts/sCxPKiMs9?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [LINUX Commands](https://app.daily.dev/posts/LXA3HnkWq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
