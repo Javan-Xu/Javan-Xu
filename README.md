@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Planby - React.js based component for schedules and timelines](https://app.daily.dev/posts/rvuxmBhJn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [remult/remult: A CRUD framework for full stack TypeScript](https://app.daily.dev/posts/7EoZhCGzr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Web’s Next Transition](https://app.daily.dev/posts/W2WvERHye?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Ultra - Fast JavaScript package manager](https://app.daily.dev/posts/5L1bZlScF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [I made 1,000x faster TypeScript Validator Library](https://app.daily.dev/posts/yVMW33ncl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Building a Micro-frontend Framework](https://app.daily.dev/posts/gZxbXQOVr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [HTML Over WebSockets](https://app.daily.dev/posts/QBtYaQ1_t?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [refine - 100% open source React framework. Build web apps 3x faster](https://app.daily.dev/posts/uKLERC9DJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [CSS-in-JS for React: Linaria vs. Styled Components](https://app.daily.dev/posts/LE_BsKcSx?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
