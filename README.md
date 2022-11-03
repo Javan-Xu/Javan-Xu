@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Spatial-Temporal Visualization Library using Deck.GL](https://app.daily.dev/posts/5c982c7a410cae7923c96983ad0ba657?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [The Engineering Manager](https://app.daily.dev/posts/hh4U9P-Hg?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Developer Roadmaps](https://app.daily.dev/posts/AIMVj_l2N?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Planby - React.js based component for schedules and timelines](https://app.daily.dev/posts/rvuxmBhJn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [remult/remult: A CRUD framework for full stack TypeScript](https://app.daily.dev/posts/7EoZhCGzr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Implementing 3D graphics in React](https://app.daily.dev/posts/s7GQ0w-vQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://app.daily.dev/posts/i9O_ufZOe?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [acreom 1.0 - lightweight Markdown editor with tasks for developers](https://app.daily.dev/posts/J_8B2AQvP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [EP30: Why is PostgreSQL the most loved database](https://app.daily.dev/posts/5Hdw062sE?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎](https://app.daily.dev/posts/FqIupHiwa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
