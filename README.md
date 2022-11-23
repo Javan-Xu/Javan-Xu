@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Software architecture tools](https://app.daily.dev/posts/SBnUG2SP_?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Microservices with NestJS, Kafka, and TypeScript](https://app.daily.dev/posts/kwBbUO6P9?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [7 Microservice Design Patterns to Use](https://app.daily.dev/posts/-7Mp7qjCI?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Javascript Design Patterns](https://app.daily.dev/posts/z7nr1iZEg?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Twitter Architecture 2022 vs 2012](https://app.daily.dev/posts/TLw9m09K7?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Using HashiCorp Vault with Octopus](https://app.daily.dev/posts/Qb3kVNMl_?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
