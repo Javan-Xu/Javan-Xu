@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Implementing reCAPTCHA in React](https://app.daily.dev/posts/zGlEKroac?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [TypeScript: advanced and esoteric](https://app.daily.dev/posts/p8omGN4lN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [The complete guide to System Design in 2022](https://app.daily.dev/posts/lFZjTAyHf?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Super Useful CSS Resources 🌈](https://app.daily.dev/posts/_2BztdGT6?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Disney Researchers Have Developed An Artificial Intelligence &lpar;AI&rpar; Tool That Instantly Makes An Actor Appear Younger Or Older In A Scene](https://app.daily.dev/posts/APbMxy4xH?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Auto-Mocking with Jest](https://app.daily.dev/posts/8hCwScym5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [5 Books for QA Engineers](https://app.daily.dev/posts/gMLiQ-4DC?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Master List of UI Design Resources](https://app.daily.dev/posts/64Ee2tLgZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Alternative Product Business Models](https://app.daily.dev/posts/5Uc00Ebfa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Epic Games&#39; RealityScan is Now Available for Free on iOS Devices](https://app.daily.dev/posts/a_AXhqD_k?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
