@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [How to solve coding issues using ChatGPT](https://app.daily.dev/posts/ZEzEyPp1m?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [React JS Best Practices](https://app.daily.dev/posts/waoH0CrTK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Handling errors like a pro in TypeScript](https://app.daily.dev/posts/KOIb2rSy3?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Top ChatGPT Alternatives That You Can Use in 2023](https://app.daily.dev/posts/PVIqBkFFe?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [7 Interesting Experiments with ChatGPT](https://app.daily.dev/posts/4ZtJQESvl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [11 tips for writing a good Git commit message](https://app.daily.dev/posts/VK09T1oTh?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Data Fetching: FETCH API Approach vs SWR Approach](https://app.daily.dev/posts/TH6uxkEip?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JavaScript Frameworks - Heading into 2023](https://app.daily.dev/posts/uqzxbS0f5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Why You Should Use Islands Architecture](https://app.daily.dev/posts/ozg6NBEvU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Stupid Javascript interview questions](https://app.daily.dev/posts/yJ1rn8vg8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
