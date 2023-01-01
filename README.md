@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [11 tips for writing a good Git commit message](https://app.daily.dev/posts/VK09T1oTh?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Data Fetching: FETCH API Approach vs SWR Approach](https://app.daily.dev/posts/TH6uxkEip?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JavaScript Frameworks - Heading into 2023](https://app.daily.dev/posts/uqzxbS0f5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Why You Should Use Islands Architecture](https://app.daily.dev/posts/ozg6NBEvU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Stupid Javascript interview questions](https://app.daily.dev/posts/yJ1rn8vg8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [My New Notion Alternative… And Why I’m Switching To It?](https://app.daily.dev/posts/tkp4hbynR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Using CodeGeeX as a GitHub Copilot alternative](https://app.daily.dev/posts/tytkXb8Lc?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [openai/point-e: Point cloud diffusion for 3D model synthesis](https://app.daily.dev/posts/cwLV43eTm?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Exploiting XSS with Javascript/JPEG Polyglot](https://app.daily.dev/posts/DH6WZOugv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [My favorite open source alternatives this year](https://app.daily.dev/posts/duKb85TwO?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
