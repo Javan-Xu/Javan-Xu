@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Advanced JavaScript Functions to Improve Code Quality](https://app.daily.dev/posts/5oG1Ralxl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Kodezi 2.0 - Grammarly For Programmers](https://app.daily.dev/posts/jVS8dwOD2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Git Commit Patterns](https://app.daily.dev/posts/JK3jcJUfL?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Mastering TypeScript: 21 Best Practices for Improved Code Quality](https://app.daily.dev/posts/DPJl8JJfi?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Adrenaline - Your AI-powered debugger](https://app.daily.dev/posts/w_uvBbBa-?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Znote AI - Javascript playground app with Markdown for busy developers](https://app.daily.dev/posts/6dktuxfXy?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
