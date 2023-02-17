@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [useSignal&lpar;&rpar; Is The Future of Web Frameworks](https://app.daily.dev/posts/LHjfaYk3h?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Using the TypeScript generic type to create reusable components](https://app.daily.dev/posts/wAxcBNYcM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [React Anti-Patterns and Best Practices - Do&#39;s and Don&#39;ts](https://app.daily.dev/posts/7jMAvbnSk?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [A Cheat Sheet to Deep Learning Algorithms: Types, Applications, and Examples](https://app.daily.dev/posts/-7lNmtsvN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Docker for Data Science Cheat Sheet](https://app.daily.dev/posts/ZmgbGQWFd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Animate a Camera Fly-through on Scroll Using Theatre.js and React Three Fiber](https://app.daily.dev/posts/S8yq6V4Co?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
