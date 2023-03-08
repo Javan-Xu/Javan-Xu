@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Rubberduck - ChatGPT for Visual Studio Code](https://app.daily.dev/posts/7dn5CHybl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [7 Best Open Source Alternatives to Notion](https://app.daily.dev/posts/HHgYsyE0w?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Say Goodbye to Package Manager Chaos with ni](https://app.daily.dev/posts/9CIyT3B68?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Animate your React app with AnimXYZ](https://app.daily.dev/posts/metGSXdZU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Introduction To 11 Core JavaScript Functions To Improve Code Quality](https://app.daily.dev/posts/L9V_qEBIB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Code Snippets AI - Generate, refactor and debug, all inside VSCode](https://app.daily.dev/posts/psWQUfZRl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Sharing Stateful Logic in React with Hooks: A Better Way to Build Reusable Components](https://app.daily.dev/posts/cSgl8kyzX?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
