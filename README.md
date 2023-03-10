@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [7 Ways ChatGPT Can Help Developers](https://app.daily.dev/posts/oDGw4lYmK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [SOLID principles in Reactjs](https://app.daily.dev/posts/ERquEWMwK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Rubberduck - ChatGPT for Visual Studio Code](https://app.daily.dev/posts/7dn5CHybl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [7 Best Open Source Alternatives to Notion](https://app.daily.dev/posts/HHgYsyE0w?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Say Goodbye to Package Manager Chaos with ni](https://app.daily.dev/posts/9CIyT3B68?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to be Better in React Code Reusability – Part1](https://app.daily.dev/posts/QfHOhUHf8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [12 programming mistakes to avoid](https://app.daily.dev/posts/FcSDD3l69?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [7 awesome JavaScript projects to check out today](https://app.daily.dev/posts/huHe6oPvB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [13 Open Source Headless CMS You Should Consider for Your Next Project](https://app.daily.dev/posts/9uFc93ADd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Excalidraw - A Self Hosted Diagram and Drawing Portal](https://app.daily.dev/posts/Zy9HFdkrp?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
