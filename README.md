@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Top 10 JavaScript String Methods You Should Know](https://app.daily.dev/posts/2Qxc2B6Zh?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [How to be Better in React Code Reusability – Part1](https://app.daily.dev/posts/QfHOhUHf8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [12 programming mistakes to avoid](https://app.daily.dev/posts/FcSDD3l69?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [7 awesome JavaScript projects to check out today](https://app.daily.dev/posts/huHe6oPvB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [13 Open Source Headless CMS You Should Consider for Your Next Project](https://app.daily.dev/posts/9uFc93ADd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Excalidraw - A Self Hosted Diagram and Drawing Portal](https://app.daily.dev/posts/Zy9HFdkrp?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
