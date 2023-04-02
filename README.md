@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How To Optimize Your React App’s Performance](https://app.daily.dev/posts/sujut9WPa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [What I learned after reviewing over 40 developer portfolios - 9 tips for a better portfolio](https://app.daily.dev/posts/aq6DJDd4d?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Adrenaline - Become an expert on any codebase](https://app.daily.dev/posts/PffB7rwWn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Currying in JavaScript](https://app.daily.dev/posts/A0VFjCOYl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [What Are Microservices Design Patterns?](https://app.daily.dev/posts/D1ieJ4re5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Theatre.js Tutorial](https://app.daily.dev/posts/YdlFDPuxh?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Learn Functional Programming in JavaScript](https://app.daily.dev/posts/KFJXOe7cj?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Million.js v2.0.0 - An extremely fast virtual DOM - React up to 70% faster!](https://app.daily.dev/posts/URlGl7wFJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
