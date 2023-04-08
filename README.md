@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources.](https://app.daily.dev/posts/PXknTn9mY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://app.daily.dev/posts/713XF4kHD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Folder Structure for Modern Web Applications](https://app.daily.dev/posts/EHl7wbBek?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Best Image Annotation Tools in 2023](https://app.daily.dev/posts/8UxoTNesl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [🚀 Introducing Rix, the AI chatbot for developers](https://app.daily.dev/posts/19x8j76mM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How To Optimize Your React App’s Performance](https://app.daily.dev/posts/sujut9WPa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [What I learned after reviewing over 40 developer portfolios - 9 tips for a better portfolio](https://app.daily.dev/posts/aq6DJDd4d?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Adrenaline - Become an expert on any codebase](https://app.daily.dev/posts/PffB7rwWn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
