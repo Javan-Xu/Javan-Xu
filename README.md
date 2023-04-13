@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Module Pattern](https://app.daily.dev/posts/I5JZD1Eth?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Most Common React Design Patterns](https://app.daily.dev/posts/3UxJUf2yK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [SOLID Principles in JavaScript](https://app.daily.dev/posts/knkof7hXM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [React, visualized – react.gg](https://app.daily.dev/posts/BisSpev15?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [CodiumAI - Generating meaningful tests for busy devs](https://app.daily.dev/posts/cdT1n476I?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [8 Open-Source Alternative to ChatGPT and Bard](https://app.daily.dev/posts/NYhH94aRA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Elevating Your JavaScript Skills: Introducing 5 Operators](https://app.daily.dev/posts/R0dz6W0DK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources.](https://app.daily.dev/posts/PXknTn9mY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://app.daily.dev/posts/713XF4kHD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
