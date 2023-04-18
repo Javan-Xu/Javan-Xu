@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [EP55: Top 7 ChatGPT Developer Hacks](https://app.daily.dev/posts/piLHCeokX?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to find Open Source projects?](https://app.daily.dev/posts/unr2J3f7H?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide](https://app.daily.dev/posts/Xw4kibVmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [6 Advanced TypeScript tricks for Clean Code](https://app.daily.dev/posts/ZV0ZkiNsW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Iterators and Generators in JavaScript](https://app.daily.dev/posts/f5Piva6us?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Best 4 AI tools to help you with frontend development in 2023](https://app.daily.dev/posts/q7Lv79Kxi?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Futurepedia - The Largest AI Tools Directory](https://app.daily.dev/posts/Tt4U22F28?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Typescript utility types that you must know](https://app.daily.dev/posts/FaHbH1Oaz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [3 things the best senior developers do](https://app.daily.dev/posts/xVr1YK03B?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
