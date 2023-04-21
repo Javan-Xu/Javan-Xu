@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [AI Tools to help you with daily work](https://app.daily.dev/posts/9gMw4FYhZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Decode Meta AI’s Tool for Animating Children’s Drawings](https://app.daily.dev/posts/KnntmlDOO?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [REST vs. gRPC - What’s the Difference?](https://app.daily.dev/posts/HkCaZh13I?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [7 Modern and Powerful JavaScript Features You Didn’t Know About](https://app.daily.dev/posts/2LfuLlsj9?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [EP55: Top 7 ChatGPT Developer Hacks](https://app.daily.dev/posts/piLHCeokX?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to find Open Source projects?](https://app.daily.dev/posts/unr2J3f7H?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JavaScript Optimization Techniques for Faster Website Load Times: An In-Depth Guide](https://app.daily.dev/posts/Xw4kibVmG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [6 Advanced TypeScript tricks for Clean Code](https://app.daily.dev/posts/ZV0ZkiNsW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Iterators and Generators in JavaScript](https://app.daily.dev/posts/f5Piva6us?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
