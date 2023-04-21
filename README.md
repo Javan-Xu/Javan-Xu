@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [AI Tools to help you with daily work](https://app.daily.dev/posts/9gMw4FYhZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Decode Meta AI’s Tool for Animating Children’s Drawings](https://app.daily.dev/posts/KnntmlDOO?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [REST vs. gRPC - What’s the Difference?](https://app.daily.dev/posts/HkCaZh13I?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [7 Modern and Powerful JavaScript Features You Didn’t Know About](https://app.daily.dev/posts/2LfuLlsj9?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [EP55: Top 7 ChatGPT Developer Hacks](https://app.daily.dev/posts/piLHCeokX?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [ReaPer : An open-source dev tool to analyze React application performance](https://app.daily.dev/posts/fWc8qe1bD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [AutoGPT: Everything You Need To Know](https://app.daily.dev/posts/fdLwnZ437?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Most Common Mistakes When Using React](https://app.daily.dev/posts/DFot6r6PE?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [14 Super-Powerful Time-Saving AI Tools](https://app.daily.dev/posts/WYI8piTVH?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [API Strategy: Architecture](https://app.daily.dev/posts/3JUR2VD3M?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
