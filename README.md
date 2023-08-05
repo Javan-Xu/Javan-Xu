@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Iconbuddy — 100K+ open source icons](https://app.daily.dev/posts/POZwWUwZ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [reflex-dev/reflex: 🕸 Web apps in pure Python 🐍](https://app.daily.dev/posts/UOrEu31aA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [ExpressoTS - The Developer-Friendly TypeScript Framework for Server-Side Applications](https://app.daily.dev/posts/yFijD2ZlV?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Introducing NextUI Version 2.0](https://app.daily.dev/posts/jr9PjmHLU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [5 Tips To Improve Your TypeScript Code](https://app.daily.dev/posts/QPunk9Sda?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Top TypeScript Utility Functions You Need to Know](https://app.daily.dev/posts/y1NGkpCgH?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [20 Best JavaScript Snippets](https://app.daily.dev/posts/UL2bCTw13?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Design Pattern: How To Improve Your Code](https://app.daily.dev/posts/FzxEXh0ha?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Frontend Developer Roadmap](https://app.daily.dev/posts/3YXHfdqd6?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
