@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [DevToys–A swiss army knife for developers](https://app.daily.dev/posts/rYgVJV1ps?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [JavaScript Tips to Help You Build Better Web Development Projects](https://app.daily.dev/posts/4Fwllnqij?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Monorepo Explained](https://app.daily.dev/posts/L2jRzty90?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Auth.js](https://app.daily.dev/posts/5fFbSnfpz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Iconbuddy — 100K+ open source icons](https://app.daily.dev/posts/POZwWUwZ1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [reflex-dev/reflex: 🕸 Web apps in pure Python 🐍](https://app.daily.dev/posts/UOrEu31aA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
