@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [10 Exceptional Developer Tools Launched in 2023](https://app.daily.dev/posts/4DCYGVhN1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [I Bet You Don’t Use These JavaScript Tricks and Practices](https://app.daily.dev/posts/4RfekLNKp?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Elysia - Fast, and friendly Bun web frameworks](https://app.daily.dev/posts/f5gJXbzSr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Some simple and amazing JavaScript tricks](https://app.daily.dev/posts/LHMoLY7nC?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Every adult dev started as a child gamer. what&#39;s your childhood-defining game?](https://app.daily.dev/posts/vF8YkrtQY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [DevToys–A swiss army knife for developers](https://app.daily.dev/posts/rYgVJV1ps?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JavaScript Tips to Help You Build Better Web Development Projects](https://app.daily.dev/posts/4Fwllnqij?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Monorepo Explained](https://app.daily.dev/posts/L2jRzty90?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
