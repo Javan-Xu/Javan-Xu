@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [8 Best JavaScript One-Liners](https://app.daily.dev/posts/tmWpkpyln?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Modern VS Code extension development: The basics](https://app.daily.dev/posts/BnNUZ26tB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Writing Clean Code: Best Practices and Principles](https://app.daily.dev/posts/2IYKukJHq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Typography Trends in Web Design 2023](https://app.daily.dev/posts/shyebJ5Gg?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [tldraw/tldraw: a very good whiteboard](https://app.daily.dev/posts/MWu8nspdH?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to Improve Your ReactJS Code – Tips for Code Readability and Performance](https://app.daily.dev/posts/sDxo6HjxD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [10 Exceptional Developer Tools Launched in 2023](https://app.daily.dev/posts/4DCYGVhN1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [I Bet You Don’t Use These JavaScript Tricks and Practices](https://app.daily.dev/posts/4RfekLNKp?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
