@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [CSS Variables 101](https://app.daily.dev/posts/TaILilOcv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Rivet Is An Open-Source Visual AI Programming Environment](https://app.daily.dev/posts/oqxZLGqxo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Why use Vite when Bun is also a bundler? - Vite vs. Bun](https://app.daily.dev/posts/8Bch3EJeN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [8 Best JavaScript One-Liners](https://app.daily.dev/posts/tmWpkpyln?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Modern VS Code extension development: The basics](https://app.daily.dev/posts/BnNUZ26tB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Writing Clean Code: Best Practices and Principles](https://app.daily.dev/posts/2IYKukJHq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
