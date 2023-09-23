@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [A Front-End Application Folder Structure that Makes Sense](https://app.daily.dev/posts/X72onQAAT?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Motion Tailwind CSS - Tailwind CSS website builder for modern developers](https://app.daily.dev/posts/HDHdsqwFa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [CSS Variables 101](https://app.daily.dev/posts/TaILilOcv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Rivet Is An Open-Source Visual AI Programming Environment](https://app.daily.dev/posts/oqxZLGqxo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Why use Vite when Bun is also a bundler? - Vite vs. Bun](https://app.daily.dev/posts/8Bch3EJeN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [8 Best JavaScript One-Liners](https://app.daily.dev/posts/tmWpkpyln?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Modern VS Code extension development: The basics](https://app.daily.dev/posts/BnNUZ26tB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
