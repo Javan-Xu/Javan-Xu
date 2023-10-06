@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [NueJS](https://app.daily.dev/posts/Aqx40Ap5a?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [One Thing Nobody Explained To You About TypeScript](https://app.daily.dev/posts/OWWRLK99n?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Sessions, Tokens, JWT, SSO, and OAuth in One Diagram](https://app.daily.dev/posts/B69PKqDbb?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Digma 1.0 is launching 🚀](https://app.daily.dev/posts/QvHuFmwSh?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [🚀 10 Github repositories to achieve Javascript mastery 🧙‍♂️🪄✨](https://app.daily.dev/posts/O4zImSrXr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [A Front-End Application Folder Structure that Makes Sense](https://app.daily.dev/posts/X72onQAAT?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
