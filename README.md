@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Frontend Devs: What are the favorite tools from your daily workflow?](https://app.daily.dev/posts/QcxI3Cgx8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JavaScript is getting array grouping methods](https://app.daily.dev/posts/CwU5GJlH4?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Tailwind CSS Tips and Tricks Worth Knowing](https://app.daily.dev/posts/TVyCaidq8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [State of CSS 2023](https://app.daily.dev/posts/TnpKnQ9ua?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [NueJS](https://app.daily.dev/posts/Aqx40Ap5a?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [One Thing Nobody Explained To You About TypeScript](https://app.daily.dev/posts/OWWRLK99n?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Sessions, Tokens, JWT, SSO, and OAuth in One Diagram](https://app.daily.dev/posts/B69PKqDbb?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
