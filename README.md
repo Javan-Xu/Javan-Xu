@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Getting Used To Microservices](https://app.daily.dev/posts/ksZD5pV4e?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Top AI Tools to Use in 2023](https://app.daily.dev/posts/zuK12nuiP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Things you forgot &lpar;or never knew&rpar; because of React](https://app.daily.dev/posts/PjhjKf0mY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Is Your Code Slow?: Avoid These 19 Common JavaScript and Node.js Mistakes](https://app.daily.dev/posts/mwkkxSdbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Forever Functional: Maximize JavaScript&#39;s performance with transducers](https://app.daily.dev/posts/QYOkrASr5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [EP75: How Does A Password Manager Work](https://app.daily.dev/posts/28o9XC2Dd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Top 4 🔒 Authentication Mechanisms](https://app.daily.dev/posts/Hk1stR1G8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Docs for Developers](https://app.daily.dev/posts/CGyNFA3Sr?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [FastEndpoints](https://app.daily.dev/posts/GitNngTda?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
