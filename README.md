@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Best 15 CSS Trends To Watch For](https://app.daily.dev/posts/tTqW40Xbq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [EP80: Explaining 8 Popular Network Protocols in 1 Diagram](https://app.daily.dev/posts/EIhQZp5JY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [UI over APIs](https://app.daily.dev/posts/9FKAcHI9Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Getting Used To Microservices](https://app.daily.dev/posts/ksZD5pV4e?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Top AI Tools to Use in 2023](https://app.daily.dev/posts/zuK12nuiP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Things you forgot &lpar;or never knew&rpar; because of React](https://app.daily.dev/posts/PjhjKf0mY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Is Your Code Slow?: Avoid These 19 Common JavaScript and Node.js Mistakes](https://app.daily.dev/posts/mwkkxSdbD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Forever Functional: Maximize JavaScript&#39;s performance with transducers](https://app.daily.dev/posts/QYOkrASr5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
