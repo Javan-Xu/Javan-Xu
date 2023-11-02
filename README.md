@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [UIHUT - 30,000+ design resources - Figma, Webflow, Tailwind &amp; more](https://app.daily.dev/posts/GfuqR2dY2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Why you should use UnoCSS instead of Tailwind](https://app.daily.dev/posts/W7dbO0yaG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Make an Animated Menu like Stripe with React, Tailwind, and AI](https://app.daily.dev/posts/D76WgY9Iv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [7 Repositories That Will Make You 90% Smarter](https://app.daily.dev/posts/NH0rO6ofF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Micro Frontends: The Evolution of Frontend Architecture](https://app.daily.dev/posts/QYZAhrpJx?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Best Structure For Node.js Project.](https://app.daily.dev/posts/47j2e3EnA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Scaling a side project: The story of daily.dev](https://app.daily.dev/posts/iYoVtaeky?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [What is a Headless CMS: a Visual Guide](https://app.daily.dev/posts/M9PXKD1dz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
