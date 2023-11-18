@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Why Signals Are Better Than React Hooks](https://app.daily.dev/posts/Dgesd3RRx?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Exploring Free UI Components at UIverse.io](https://app.daily.dev/posts/4Qq6lHf44?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [3D in CSS](https://app.daily.dev/posts/U28K7pkPD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Must-have Frontend Development Skills &lpar;Roadmap 2024&rpar;](https://app.daily.dev/posts/RpAFU9tsA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [JSDoc: a solid alternative to TypeScript](https://app.daily.dev/posts/jjAzURsrc?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [24 Open-Source Projects for Developers in 2023 🔥👍](https://app.daily.dev/posts/O2R4sClok?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [UIHUT - 30,000+ design resources - Figma, Webflow, Tailwind &amp; more](https://app.daily.dev/posts/GfuqR2dY2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
