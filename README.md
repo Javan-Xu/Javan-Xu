@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Building Powerful NLP Library in Python for 2024](https://app.daily.dev/posts/YEuLOvFf1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Meta GenAI Research Introduces ControlRoom3D: A Novel Artificial Intelligence Method to Generate High-Quality 3D Room Meshes Given a Textual Description of the Room Style](https://app.daily.dev/posts/31OkbyKu8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [CSS Cheat Sheet - Interactive, not a PDF](https://app.daily.dev/posts/fb8jSmx9X?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [7 Apps &amp; Websites I use every day as a UX/UI designer](https://app.daily.dev/posts/RNULTzjdy?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [2024’s Tech Trend: Frontend for Backend](https://app.daily.dev/posts/30xjAMAaH?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [What is Token-Based Authentication?](https://app.daily.dev/posts/sU468ipiw?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Best-Practices for API Authorization](https://app.daily.dev/posts/SCN66Fitb?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
