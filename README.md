@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [7 Apps &amp; Websites I use every day as a UX/UI designer](https://app.daily.dev/posts/RNULTzjdy?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [2024’s Tech Trend: Frontend for Backend](https://app.daily.dev/posts/30xjAMAaH?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [What is Token-Based Authentication?](https://app.daily.dev/posts/sU468ipiw?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Best-Practices for API Authorization](https://app.daily.dev/posts/SCN66Fitb?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Making SVG Loading Spinners: An Interactive Guide](https://app.daily.dev/posts/vnV0K68x5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [n0-computer/iroh: Sync anywhere](https://app.daily.dev/posts/d0i6IXhnW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to Become a 10x Dev](https://app.daily.dev/posts/6Z5TeRkqV?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Some Ideas for Fullscreen Image Slideshow Animations](https://app.daily.dev/posts/G6AnG3P8e?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
