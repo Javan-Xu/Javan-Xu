@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Let&#39;s get animating!](https://app.daily.dev/posts/rlPhQpwTZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Best-Practices for API Authorization](https://app.daily.dev/posts/j0Fe4ttpA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [The Virtual DOM is More Powerful Than You Think](https://app.daily.dev/posts/rPfZ3X4D4?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [What PWA Can Do Today](https://app.daily.dev/posts/M23EAZygA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Building Powerful NLP Library in Python for 2024](https://app.daily.dev/posts/YEuLOvFf1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Meta GenAI Research Introduces ControlRoom3D: A Novel Artificial Intelligence Method to Generate High-Quality 3D Room Meshes Given a Textual Description of the Room Style](https://app.daily.dev/posts/31OkbyKu8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
