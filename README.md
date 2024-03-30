@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Meet Jan: An Open-Source ChatGPT Alternative that Runs Completely Offline on Computer](https://app.daily.dev/posts/aII4xxOPg?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [3 Cool VS Code Extensions](https://app.daily.dev/posts/fQ8GZx3xR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Explainer: What Is Computer Vision?](https://app.daily.dev/posts/cfFbBS1ci?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [torchreid, person re-identification](https://app.daily.dev/posts/3cWInui6j?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JavaScript Visualized](https://app.daily.dev/posts/Jf60GLU2W?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Tailwind CSS Animated](https://app.daily.dev/posts/4shL5hM2i?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Meet OpenFoundry: An AI Research Startup Building a Developer Infrastructure for Open Source AI](https://app.daily.dev/posts/aiLwtlyNd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Pollen-Vision: An Artificial Intelligence Library Empowering Robots with the Autonomy to Grasp Unknown Objects](https://app.daily.dev/posts/nzVcCYAzd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]](https://app.daily.dev/posts/Gl6Ftu3IP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [OpenDevin/OpenDevin: 🐚 OpenDevin: Code Less, Make More](https://app.daily.dev/posts/wFBnqgYWq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
