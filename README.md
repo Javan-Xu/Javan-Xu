@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [You are Using ChatGPT Wrong! — #1 Mistake 99% of Users Make](https://app.daily.dev/posts/r4CO1nMMo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Make naked websites look great with matcha.css!](https://app.daily.dev/posts/1AemgfJ0A?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Fancy Multi Select](https://app.daily.dev/posts/o1PDEiUpa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [The JavaScript Class Handbook – Complete Guide to Class Fields and the Super Keyword](https://app.daily.dev/posts/zhXDO0Oag?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [API Design 101: From Basics to Best Practices](https://app.daily.dev/posts/gYbJn53Cd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [JavaScript Security: Simple Practices to Secure Your Frontend](https://app.daily.dev/posts/Kcrzt8eeF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How to become a CTO](https://app.daily.dev/posts/VTLT0ZfGa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [20+ Handy JavaScript Functions to Simplify Your Code | JavaScript Tutorial](https://app.daily.dev/posts/0KyYARRW0?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
