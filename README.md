@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Understanding JavaScript Debounce vs Throttle for Better App Efficiency](https://app.daily.dev/posts/1Wxll0U1C?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Frontend resources! 🚀](https://app.daily.dev/posts/j6QHjcY5k?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [📓 Make an AI notebook](https://app.daily.dev/posts/kUmgbomnz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [ChatGPT: Hacking Memories with Prompt Injection · Embrace The Red](https://app.daily.dev/posts/4SfJBOO5S?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [You are Using ChatGPT Wrong! — #1 Mistake 99% of Users Make](https://app.daily.dev/posts/r4CO1nMMo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Make naked websites look great with matcha.css!](https://app.daily.dev/posts/1AemgfJ0A?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Fancy Multi Select](https://app.daily.dev/posts/o1PDEiUpa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
