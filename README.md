@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [MrKai77/Loop: Window management made elegant.](https://app.daily.dev/posts/cbnAdOQA8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [EP115: Life is Short, Use Dev Tools](https://app.daily.dev/posts/euI7FFM0X?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [12 Tools to Provide a Web UI for Ollama](https://app.daily.dev/posts/66tdl9i2a?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Don&#39;t Microservice, Do Module](https://app.daily.dev/posts/mFdHRUn8P?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Understanding JavaScript Debounce vs Throttle for Better App Efficiency](https://app.daily.dev/posts/1Wxll0U1C?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Frontend resources! 🚀](https://app.daily.dev/posts/j6QHjcY5k?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
