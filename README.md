@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/EDWvIsypJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Frontend Libraries for Your Next Project](https://app.daily.dev/posts/Fi3CFgwtl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/CfjwEj0ms?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Tiny macOS utility apps I love - Part 1](https://app.daily.dev/posts/JLfqmvuID?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers&lpar; OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity &rpar;, Multi-Modals &lpar;Vision/TTS&rpar; and plugin](https://app.daily.dev/posts/KaZT99xCF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [MrKai77/Loop: Window management made elegant.](https://app.daily.dev/posts/cbnAdOQA8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
