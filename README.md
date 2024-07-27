@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Love Notion but hate how closed off it is? Check out this awesome open source alternative.](https://app.daily.dev/posts/X8TDJBbd7?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [EP121: 9 Essential Components of a Production Microservice Application](https://app.daily.dev/posts/FHkqTIOVw?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Install Docmost - Open Source Notion Clone](https://app.daily.dev/posts/SNYhUAesv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Open-Source Tool to Increase Your Productivity](https://app.daily.dev/posts/YoIW2a4M1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [8 Frontend Tools to Become a Better Developer](https://app.daily.dev/posts/4S0EgM7lW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [GitHub Copilot Alternatives: Best Open Source LLMs for Coding](https://app.daily.dev/posts/cWrSmAtAv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Top 12 Open-Source No-Code Tools with the Most GitHub Stars](https://app.daily.dev/posts/Z4OrjuiHV?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/b7Z7Xwo1t?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [UI Interactions &amp; Animations Roundup #44](https://app.daily.dev/posts/SyDS4kugl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Vite PWA](https://app.daily.dev/posts/df2pPs2dO?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
