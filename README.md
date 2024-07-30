@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [exo-explore/exo: Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚](https://app.daily.dev/posts/Cs82WsHAB?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [GitHub Copilot Alternatives: Best Open Source LLMs for Coding](https://app.daily.dev/posts/cWrSmAtAv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [The Top 12 Open-Source No-Code Tools with the Most GitHub Stars](https://app.daily.dev/posts/Z4OrjuiHV?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/b7Z7Xwo1t?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [UI Interactions &amp; Animations Roundup #44](https://app.daily.dev/posts/SyDS4kugl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Vite PWA](https://app.daily.dev/posts/df2pPs2dO?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
