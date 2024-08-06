@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [TailwindCSS Buttons](https://app.daily.dev/posts/LTDXo9vYY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [docmost/docmost: Docmost is an open source collaborative documentation and wiki software. It is an open-source alternative to the likes of Confluence and Notions.](https://app.daily.dev/posts/O7Adk0QhR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Block Coding for Godot: Lowering the Bar of Entry for a Powerful Tool](https://app.daily.dev/posts/EkKdnynMs?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Dezyn - Transform your diagrams into interactive experiences](https://app.daily.dev/posts/m9WXLBzbs?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Using Redis for real-time RAG goes beyond a Vector Database](https://app.daily.dev/posts/s7mo809Ce?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [A Primer on Databases](https://app.daily.dev/posts/as51WH8qU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Korvus: An All-in-One Open-Source RAG &lpar;Retrieval-Augmented Generation&rpar; Pipeline Built for Postgres](https://app.daily.dev/posts/8tvvsVF1z?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [40 Must-Read White Papers to Learn System Design and Software Architecture](https://app.daily.dev/posts/NOmCIWBZk?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
