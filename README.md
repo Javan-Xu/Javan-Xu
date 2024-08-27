@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Defensive CSS 🛡️, Animated Entrance Effects 🎬, CSS Loading Animation⏳](https://app.daily.dev/posts/Rv1XXAwSM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How I Use ChatGPT as a Frontend Developer &lpar;5 Ways&rpar;](https://app.daily.dev/posts/hDLQIs7Sa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Open source 3D icon library](https://app.daily.dev/posts/HJFaMmvJQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Open source tools to boost your productivity](https://app.daily.dev/posts/HUUQlEsoT?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Projects are live on roadmap.sh! 🥳](https://app.daily.dev/posts/yDmdoxrLi?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Tailwind Generator](https://app.daily.dev/posts/8v5ZX5TeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [3 Ways of Building Python Projects using GPT-4o](https://app.daily.dev/posts/DKx2EcgqE?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
