@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Tailwind Toots](https://app.daily.dev/posts/sWv64bfBN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Supabase + Vercel Partnership](https://app.daily.dev/posts/ioz3T9Np5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How to Create Software Architecture Diagrams Using the C4 Model](https://app.daily.dev/posts/bgypRAZxw?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Official Supabase extension for VS Code and GitHub Copilot](https://app.daily.dev/posts/APjTVPzpz?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Isocons](https://app.daily.dev/posts/hcihdoyW8?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Defensive CSS 🛡️, Animated Entrance Effects 🎬, CSS Loading Animation⏳](https://app.daily.dev/posts/Rv1XXAwSM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How I Use ChatGPT as a Frontend Developer &lpar;5 Ways&rpar;](https://app.daily.dev/posts/hDLQIs7Sa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Open source 3D icon library](https://app.daily.dev/posts/HJFaMmvJQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
