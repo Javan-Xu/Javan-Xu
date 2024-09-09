@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/ya4TLdi8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Variable Naming Best Practices in JavaScript](https://app.daily.dev/posts/roqgkOBF3?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Dang this is awesome 😍](https://app.daily.dev/posts/SGf2bHpC7?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/YQ9a2LD9t?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Tailwind Toots](https://app.daily.dev/posts/sWv64bfBN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Supabase + Vercel Partnership](https://app.daily.dev/posts/ioz3T9Np5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
