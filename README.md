@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [30+ app ideas with complete source code](https://app.daily.dev/posts/qdWRHaJeR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Frontend Projects are Live on roadmap.sh 🥳](https://app.daily.dev/posts/8TsuLcIOf?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Warp: Your terminal, reimagined](https://app.daily.dev/posts/1FqHSTRUY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [10 tips to stay healthy as a developer](https://app.daily.dev/posts/QMj0am1Ht?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [3D Book Flip Cover](https://app.daily.dev/posts/yA6Enj7z0?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/ya4TLdi8T?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
