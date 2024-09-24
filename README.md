@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [State of CSS 2024](https://app.daily.dev/posts/nz0HsMjlj?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Javascript Colored Tags Generator](https://app.daily.dev/posts/YTtp0CeAD?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/zuWszssz2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [musicForProgramming&lpar;&rpar;;](https://app.daily.dev/posts/9IXiBrlOQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/Ko6RLKpLW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Tailwind is an Anti-Pattern](https://app.daily.dev/posts/uKDzpz43J?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Advanced Typescript Types, explanations and Cheatsheet](https://app.daily.dev/posts/sbjlElIel?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/zW3aDzinv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Most common used methods in js](https://app.daily.dev/posts/Vn87aujmo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Microservices Roadmap](https://app.daily.dev/posts/70jIQoGck?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
