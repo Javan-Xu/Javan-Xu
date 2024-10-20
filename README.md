@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Scroll-driven animated card stack with scroll snap events](https://app.daily.dev/posts/kcsAeeOJA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Best Icon Libraries](https://app.daily.dev/posts/qlewAY3u2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [12 Fundamental Math Theories Needed to Understand AI](https://app.daily.dev/posts/x1kvJ5w2A?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [A CheatSheet of 128 CheatSheets for Developers](https://app.daily.dev/posts/4ulgpKDAv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [MinerU: An Open-Source PDF Data Extraction Tool](https://app.daily.dev/posts/kAGDRs6au?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [6 atomic habits of highly efficient CTOs](https://app.daily.dev/posts/6e24ykQBo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/y1Er4fmi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Clean Code in Practice: How I Learned to Write Maintainable Code](https://app.daily.dev/posts/utoitXqCV?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [10 JavaScript concepts every Node developer must master](https://app.daily.dev/posts/HWmyHZ3ZV?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
