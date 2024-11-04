@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [A list of free software and services for self-hosting.](https://app.daily.dev/posts/94495QFVP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/gp7jeyD4M?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Scroll-driven animated card stack with scroll snap events](https://app.daily.dev/posts/kcsAeeOJA?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Best Icon Libraries](https://app.daily.dev/posts/qlewAY3u2?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [12 Fundamental Math Theories Needed to Understand AI](https://app.daily.dev/posts/x1kvJ5w2A?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/jJvJwsZjl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Learn Generative AI for Developers](https://app.daily.dev/posts/tZnclrcCQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [The Best Three.js Resources in One Place](https://app.daily.dev/posts/RqlFnAGje?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/HFxn8nziq?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [JavaScript Best Practices 2024](https://app.daily.dev/posts/7rYt1mxlW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
