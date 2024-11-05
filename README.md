@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!](https://app.daily.dev/posts/ypr7KVVxM?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [3D parallax effect on hover](https://app.daily.dev/posts/qy2X10Cgo?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [HeyForm is an open-source form builder](https://app.daily.dev/posts/0E8jJmIcK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [17 Projects for Teams to Build AI Features 100x Faster](https://app.daily.dev/posts/ylqMRUCCj?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Solidtime: Modern open-source time-tracking app](https://app.daily.dev/posts/d4lzafNng?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [ChartDB: From Zero to 1.5K GitHub Stars in 3 Days - Here’s How 🚀⭐️](https://app.daily.dev/posts/wJx2e6Vo1?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/jJvJwsZjl?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
