@@ -3,6 +3,8 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [No title](https://app.daily.dev/posts/uZwFmP4nn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [How I share my code across multiple JS projects without having to use npm](https://app.daily.dev/posts/6lqV8zmDL?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/w9kM3vKUR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [🚀 Master JavaScript Design Patterns with Ease!
 
@@ -12,6 +14,4 @@ Unlock the secrets of clean, scalable code with my latest article on “Master t
 
 Elevate your development skills today!](https://app.daily.dev/posts/3L0Jpgx9Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [The Best Guide to Flexbox Ever](https://app.daily.dev/posts/51TnhOwu6?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Shiki](https://app.daily.dev/posts/sY6BdtwK6?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/SNAhbO7GP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
