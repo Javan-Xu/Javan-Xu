@@ -3,6 +3,7 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Animated Backgrounds](https://app.daily.dev/posts/3eUtg5two?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/uZwFmP4nn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [How I share my code across multiple JS projects without having to use npm](https://app.daily.dev/posts/6lqV8zmDL?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/w9kM3vKUR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
@@ -13,5 +14,4 @@ Unlock the secrets of clean, scalable code with my latest article on “Master t
 👉 Read the full article here: Master the Top 5 Essential JavaScript Design Patterns
 
 Elevate your development skills today!](https://app.daily.dev/posts/3L0Jpgx9Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [The Best Guide to Flexbox Ever](https://app.daily.dev/posts/51TnhOwu6?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
