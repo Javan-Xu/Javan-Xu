@@ -3,15 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Animated Backgrounds](https://app.daily.dev/posts/3eUtg5two?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/uZwFmP4nn?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [How I share my code across multiple JS projects without having to use npm](https://app.daily.dev/posts/6lqV8zmDL?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/w9kM3vKUR?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [🚀 Master JavaScript Design Patterns with Ease!
-
-Unlock the secrets of clean, scalable code with my latest article on “Master the Top 5 Essential JavaScript Design Patterns Every Developer Should Know”. Explore practical examples of Singleton, Factory, Observer, Strategy, and Decorator patterns, and learn how to supercharge your JS/TS projects!
-
-👉 Read the full article here: Master the Top 5 Essential JavaScript Design Patterns
-
-Elevate your development skills today!](https://app.daily.dev/posts/3L0Jpgx9Z?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Beautifully designed Tailwind CSS UI blocks &lpar;code + live view&rpar;](https://app.daily.dev/posts/HldJzsChv?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [OpenAlternative is a curated collection of the best open source alternatives to everyday SaaS products. The goal of the site is to be your first stop when researching for a new open source service to help you grow your business. It will help you find alternatives and reviews of the products you already use.](https://app.daily.dev/posts/Owxra1A9e?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://app.daily.dev/posts/yOQCyRmJT?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [I found an awesome development-based icon library and I loved it😍](https://app.daily.dev/posts/leFIw506f?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Create slides from Markdown](https://app.daily.dev/posts/g3nIzsJdf?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
