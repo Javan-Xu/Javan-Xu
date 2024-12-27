@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [State of JavaScript 2024](https://app.daily.dev/posts/Fm4GBsLGK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [1,700+ Free Tailwind CSS Examples](https://app.daily.dev/posts/lj0FR4Xxd?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Nexterm - Self-Hosted Web Terminal](https://app.daily.dev/posts/JVQF77ew0?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Tailwind Background](https://app.daily.dev/posts/7WtTIK1eY?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [Build your Personal Assistant with Agents and Tools](https://app.daily.dev/posts/91J4Xn6S5?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/HpPJz4leG?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [Master RAG: The Ultimate Repo for Retrieval-Augmented Generation Techniques 🚀](https://app.daily.dev/posts/5CciOZ1xa?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/l8kmtZgMs?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/60SjGDQwW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [A Crash Course on Using AI to Save Time and Focus on What Matters](https://app.daily.dev/posts/YznIeuybU?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
