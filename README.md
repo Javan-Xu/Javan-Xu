@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [40 CSS Background Effects to Enhance Your Website](https://app.daily.dev/posts/noxDENTnI?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [This Folder Structure Makes Me 100% More Productive](https://app.daily.dev/posts/ZfaRUgPKm?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/VPxFqRVgP?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [Sharing my 300+ best web design tools and resources collection.](https://app.daily.dev/posts/h8twgAv4c?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [A list of developer portfolios for inspiration](https://app.daily.dev/posts/HSkuRvpZN?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [10 Things Software Engineers Should Learn in 2025](https://app.daily.dev/posts/yQTOPu3pK?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
