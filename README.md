@@ -3,9 +3,9 @@
 
 # My daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Authentication Explained: When to Use Basic, Bearer, OAuth2, JWT &amp; SSO](https://app.daily.dev/posts/Pl23n7LCI?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
+- [No title](https://app.daily.dev/posts/fwG2qB14h?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/jU2LkvG0w?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [No title](https://app.daily.dev/posts/hd8k7Ft6K?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 - [API Performance Improvement Tips](https://app.daily.dev/posts/VNF1EbujF?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/Vz6GNp4vW?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
-- [No title](https://app.daily.dev/posts/SyyF9EVi0?utm_source=rss&utm_medium=bookmarks&utm_campaign=6ueXw3FRNQzpNtewCDbI6)
 <!-- daily.dev BOOKMARKS:END -->
