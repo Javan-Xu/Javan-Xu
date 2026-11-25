@@ -1,4 +1,8 @@
 name: daily.dev Bookmarks
+
+permissions:
+  contents: read
+
 on:
   schedule:
     # Runs every hour
@@ -9,9 +13,11 @@ jobs:
   daily-dev-bookmarks:
     name: Update this repo's README with latest bookmarks from daily.dev
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3.1.0
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@93ea575cb5d8a053eaa0ac8fa3b40d7e05a33cc8 # v3.1.0
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/3a70bfb2-d088-47a3-8207-9516e859c013"
